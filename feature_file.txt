@@ -1,2 +1,1 @@
-creating a new feature
-adding another line from feature1
+adding one line creating a new featureadding another line from feature1
